@@ -1,4 +1,4 @@
-# Inductive biases of modularization for neural networks in spatial navigation
+# Inductive biases of neural network modularity in spatial navigation
 
 This is a project exploring neural architectures for deep reinforcement learning agents. See paper https://www.biorxiv.org/content/10.1101/2022.12.07.519515v2.abstract.
 
@@ -13,7 +13,7 @@ Follow these steps to set up the project:
 2. Navigate to the main project folder; it should contain two subfolders: `analysis` and `model`.
 
 ### Download Data
-1. Download data from [DataDryad](https://datadryad.org/stash/share/lUrgNzqfqc-dBmWDYRUfgcTe4h8MsFMOrjYrDYnVIVc).
+1. Download data `data.zip` from [DataDryad](https://datadryad.org/stash/share/lUrgNzqfqc-dBmWDYRUfgcTe4h8MsFMOrjYrDYnVIVc).
 2. Unzip the downloaded data and move the 'data' folder into the project's main folder.
 3. Confirm that your project's folder now contains three subfolders: `analysis`, `model`, and `data`.
 4. Inside the `data` folder, you should find various subfolders, such as `agents`, `agents_all`, `agents_temp`, `analysis_data`, `monkey_data`, `training_curve`, and `training_curve_temp`.
