@@ -1,6 +1,6 @@
 # Inductive biases of neural network modularity in spatial navigation
 
-This is a project exploring neural architectures for deep reinforcement learning agents. See paper https://www.biorxiv.org/content/10.1101/2022.12.07.519515v2.abstract.
+This is a project exploring neural architectures for deep reinforcement learning agents. See [paper](https://www.science.org/doi/10.1126/sciadv.adk1256).
 
 All the codes have been tested on Windows machines with Anaconda and CUDA-capable GPUs. The following instructions allow users to run codes in this repo based on the Windows+CUDA GPU system that has been used. However, in general, MacOS or Linux machines, with or without GPUs, should also work with slight modifications in the setup.
 
